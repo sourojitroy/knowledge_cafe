@@ -39,15 +39,15 @@ function App() {
     // console.log('kaj hocche'); 
     //   console.log(title);
     toast("Wow so easy !");
-    const previousReadBlogsTitle=JSON.parse(localStorage.getItem('blogsTitleList'));
-    if(previousReadBlogsTitle){
+    const previousReadBlogsTitle = JSON.parse(localStorage.getItem('blogsTitleList'));
+    if (previousReadBlogsTitle) {
       // console.log('kaj hocche');
-      const add=previousReadBlogsTitle+title;
+      const add = previousReadBlogsTitle + title;
       // console.log(add)
       localStorage.setItem('blogsTitleList', add)
       setSingleCart(add)
     }
-    else{
+    else {
       localStorage.setItem('blogsTitleList', title)
       setSingleCart(title)
     }
@@ -56,7 +56,10 @@ function App() {
 
   return (
     <div className="App">
-
+      <Header></Header>
+      <Home handleBlogs={handleBlogs} blogs={blogs} handleBlogTitleCart={handleBlogTitleCart} ></Home>
+      <QusAns></QusAns>
+      <ToastContainer></ToastContainer>
     </div>
   )
 }
