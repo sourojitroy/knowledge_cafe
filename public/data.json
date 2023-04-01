@@ -1,0 +1,40 @@
+[
+    {
+      "id": "1001",
+      "bgImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "name": "Ashikul Islam",
+      "pImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "publishDate": "May 15 (3 Days ago)",
+      "title": "The world is getting smaller day by day",
+      "readTime": 5
+    },
+    {
+      "id": "1002",
+      "bgImage": "https://media.istockphoto.com/id/1350722246/photo/server-room-background.jpg?s=1024x1024&w=is&k=20&c=xV6l5D7uB0tf_sE3YtDUBX29WaUKFEmhs3J4up6TukU=",
+      "name": "Borshan Shimul",
+      "pImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "publishDate": "July 17 (23 Days ago)",
+      "title": "The popularity of cloud storage is increasing",
+      "readTime": 10
+    },
+    {
+      "id": "1003",
+      "bgImage": "https://media.istockphoto.com/id/1075599562/photo/programmer-working-with-program-code.jpg?s=2048x2048&w=is&k=20&c=POJ9xoXHWDgRWSaETn9Lls1GlwVimsDOnvv4jcCVi2c=",
+      "name": "Peter Parker",
+      "pImage": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+      "publishDate": "March 11 (7 Days ago)",
+      "title": "Life of a programmer",
+      "readTime": 25
+    },
+    {
+      "id": "1004",
+      "bgImage": "https://media.istockphoto.com/id/996082438/photo/software-developing-team-working-in-the-office.jpg?s=2048x2048&w=is&k=20&c=eCR-E_8M7q0dS0lKvMqmdftfgBshmZ1vKwVte4wGPME=",
+      "name": "Ironi Bros",
+      "pImage": "https://images.unsplash.com/photo-1639747280804-dd2d6b3d88ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "publishDate": "Feb 25 (48 Days ago)",
+      "title": "Collaborative work can help everyone to build a project",
+      "readTime": 15
+    }
+    
+  ]
+  
